@@ -16,8 +16,8 @@
     "dotenv": "^7.0.0",
     "express": "^4.17.1",
     "firebase": "^6.2.4",
-    "firebase-admin": "^8.2.0",
-    "firebase-functions": "^3.0.2",
+    "firebase-admin": "^11.4.1",
+    "firebase-functions": "^3.24.1",
     "request": "^2.88.0",
     "socket.io": "^2.2.0"
   },
